@@ -1,1 +1,1 @@
-# Core Java concepts, programs, assignments and practice problems
+# Core Java concepts
